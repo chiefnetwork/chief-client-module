@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mqtt": "^4.2.8"
+  },
+  "name": "chief-client-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikbalkazanc",
+  "license": "ISC",
+  "description": ""
+}
